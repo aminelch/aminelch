@@ -17,7 +17,7 @@ It's so nice of you stop by! 🙃
 **Languages and Tools:**  
 
  
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 =======
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
  
@@ -36,7 +36,7 @@ It's so nice of you stop by! 🙃
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <br />
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=aminelch&show_icons=true&title_color=fff&icon_color=79ff97&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=aminelch&show_icons=true&title_color=fff&icon_color=79ff97&theme=ant)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aminelch/aminelch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
