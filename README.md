@@ -33,7 +33,7 @@ It's so nice of you stop by! 🙃
 <br />
 
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=aminelch&show_icons=true&title_color=fff&icon_color=79ff97&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=aminelch&show_icons=true&title_color=fff&icon_color=79ff97&theme=gradient)]()
 
 <!--
 **aminelch/aminelch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
