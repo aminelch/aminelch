@@ -1,1 +1,1 @@
-![](https://github.com/aminelch/aminelch/blob/master/aminelch.gif?raw=true)
+![Metrics](https://metrics.lecoq.io/aminelch?template=classic&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&pagespeed=1&projects=1&posts=1&languages.ignored=pascal%2C%20c%2C%20c%23&pagespeed.detailed=false&pagespeed.screenshot=false&posts.limit=4&posts.source=dev.to&isocalendar.duration=half-year&projects.limit=4&config.timezone=Africa%2FTunis)
